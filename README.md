@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contact
+[![](https://img.shields.io/badge/-mail-007396?logo=Gmail&logoColor=ffffff)](mailto:huangxiutao94@gmail.com)
+
